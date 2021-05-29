@@ -1,0 +1,72 @@
+body {
+  background-color: #d3e0ea;
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  font-family: 'Dancing Script', cursive;
+  background-color: #a1cae2;
+  padding-top: 100px;
+  font-size: 50px;
+}
+
+.bottom {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.top {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.middle-container {
+  padding-top: 100px;
+  margin: auto;
+  width: 50%;
+  padding-bottom: 25px;
+}
+
+h2 {
+  font-size: 40px;
+  color: #8f4f4f;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 25px;
+}
+
+.python {
+  height: 180px;
+  width: 180px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row2 {
+  padding-top: 100px;
+}
+
+.web {
+  height: 150px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  background-color: #afb9c8;
+}
